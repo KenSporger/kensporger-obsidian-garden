@@ -128,6 +128,23 @@ body {
   border-radius: 3px;
 }
 
+/*----------------------- navbar ------------------------*/
+// 侧边栏logo头像大小调整
+.filetree-sidebar .site-logo {
+  width: 180px;
+  height: auto;
+  margin: 10px auto;
+  display: block;
+}
+
+@media (max-width: 800px) {
+  .filetree-sidebar .site-logo {
+    width: 120px;
+  }
+}
+
+
+
 /* Syntax highlighting */
 .token.comment { color: #999; }
 .token.keyword { color: #cc7832; }
