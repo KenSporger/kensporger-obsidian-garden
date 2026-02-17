@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/生活随笔/2025 Summary/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/生活随笔/2025 Summary/"}
 ---
 
 
 # 知识体系
+{ #ca2a69}
+
 
 ## 曾经的尝试
 
