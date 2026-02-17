@@ -11,7 +11,10 @@
         "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy",
         "build:sass": "sass src/site/styles:dist/styles --style compressed",
         "get-theme": "node src/site/get-theme.js",
-        "build": "npm-run-all get-theme build:*"
+        "build": "npm-run-all get-theme build:*",
+        "dev": "npm-run-all get-theme dev:eleventy dev:sass",
+        "dev:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve --watch --port 3000",
+        "dev:sass": "sass src/site/styles:dist/styles --watch --style expanded"
     },
     "keywords": [],
     "author": "",
