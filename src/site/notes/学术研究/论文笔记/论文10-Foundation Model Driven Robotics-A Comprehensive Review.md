@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/学术研究/论文笔记/论文10-Foundation Model Driven Robotics-A Comprehensive Review/","tags":["AI","Robotics","FoundationModel"]}
+{"dg-publish":true,"permalink":"/学术研究/论文笔记/论文10-Foundation Model Driven Robotics-A Comprehensive Review/","tags":["AI","机器人"]}
 ---
 
 
