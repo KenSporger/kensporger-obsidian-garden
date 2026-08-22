@@ -4,7 +4,7 @@
 
 # 概要
 
-![学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/d9ad055c397e7791a01c58e4bde394e8_MD5.png](/img/user/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/assets/%E8%AE%BA%E6%96%8711-Semi-Automatic%20Flute%20Robot%20and%20Its%20Acoustic%20Sensing/d9ad055c397e7791a01c58e4bde394e8_MD5.png)
+![[学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/d9ad055c397e7791a01c58e4bde394e8_MD5.png\|学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/d9ad055c397e7791a01c58e4bde394e8_MD5.png]]
 
 论文设计了一种半自动长笛机械系统，并通过多组实验测试了系统的演奏效果。该系统包括两个部分：自动指法控制机构、射流偏移辅助机构。
 
@@ -16,20 +16,20 @@
 
 ## 驱动原理
 
-![32e62a3f67f07258ca02eac44206b439_MD5.png|501](/img/user/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/assets/%E8%AE%BA%E6%96%8711-Semi-Automatic%20Flute%20Robot%20and%20Its%20Acoustic%20Sensing/32e62a3f67f07258ca02eac44206b439_MD5.png)
+![[32e62a3f67f07258ca02eac44206b439_MD5.png\|501]]
 
 论文使用的是闭孔长笛。对于标准的按键（水平向上、圆形）将伺服舵机（SG92R）通过线连接到长笛按键帽上，长笛按键帽采用3D打印，有三个锁片负责固定。
 
-![学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/4bd461e4ec623832e6c9b6e7b6e11c64_MD5.png](/img/user/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/assets/%E8%AE%BA%E6%96%8711-Semi-Automatic%20Flute%20Robot%20and%20Its%20Acoustic%20Sensing/4bd461e4ec623832e6c9b6e7b6e11c64_MD5.png)
+![[学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/4bd461e4ec623832e6c9b6e7b6e11c64_MD5.png\|学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/4bd461e4ec623832e6c9b6e7b6e11c64_MD5.png]]
 
 对于非标准按键，如G#按键，不使用按键盖，直接将按键与线进行连接。对于侧边按键，采用[[机器人世界/硬件学习/01. 人形关节#^2cdc24\|丝杠]]的方式将旋转变为平移运动。
 
-![学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/3876f2243898769f4eaebb40d83d2e40_MD5.png](/img/user/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/assets/%E8%AE%BA%E6%96%8711-Semi-Automatic%20Flute%20Robot%20and%20Its%20Acoustic%20Sensing/3876f2243898769f4eaebb40d83d2e40_MD5.png)
+![[学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/3876f2243898769f4eaebb40d83d2e40_MD5.png\|学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/3876f2243898769f4eaebb40d83d2e40_MD5.png]]
 
 最终成品如下。
 
-![学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/6aba1c7c3fecd01359b8b0bfcaee9026_MD5.png](/img/user/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/assets/%E8%AE%BA%E6%96%8711-Semi-Automatic%20Flute%20Robot%20and%20Its%20Acoustic%20Sensing/6aba1c7c3fecd01359b8b0bfcaee9026_MD5.png)
-![学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/932385e17e94c032f4ca9ff52b507e31_MD5.png](/img/user/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/assets/%E8%AE%BA%E6%96%8711-Semi-Automatic%20Flute%20Robot%20and%20Its%20Acoustic%20Sensing/932385e17e94c032f4ca9ff52b507e31_MD5.png)
+![[学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/6aba1c7c3fecd01359b8b0bfcaee9026_MD5.png\|学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/6aba1c7c3fecd01359b8b0bfcaee9026_MD5.png]]
+![[学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/932385e17e94c032f4ca9ff52b507e31_MD5.png\|学术研究/论文笔记/assets/论文11-Semi-Automatic Flute Robot and Its Acoustic Sensing/932385e17e94c032f4ca9ff52b507e31_MD5.png]]
 
 ## 实验设计
 
